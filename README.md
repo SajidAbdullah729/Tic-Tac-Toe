@@ -35,4 +35,4 @@ This is a simple Tic-Tac-Toe game where two players can take turns to place thei
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under GNU Affero General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
