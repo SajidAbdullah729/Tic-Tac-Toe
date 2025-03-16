@@ -1,9 +1,8 @@
-###Tic-Tac-Toe Game
+####Tic-Tac-Toe Game
 
+###Just for fun
 
-Just for fun
-
-command 
+Command Prompt command: 
 
 - npm install -g typescript
 
