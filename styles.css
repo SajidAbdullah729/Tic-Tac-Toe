@@ -7,6 +7,7 @@ body {
   align-items: center;
   height: 100vh; /* Makes sure the content is centered on full height */
   margin: 0;
+  background-color: #FFBF00; /* Orange-Yellowish background */
 }
 
 h1 {
@@ -31,7 +32,8 @@ h1 {
   align-items: center;
   font-size: 2rem;
   cursor: pointer;
-  background-color: #f0f0f0;
+  background-color: #FFD700; 
+  color: black;
 }
 
 button {
@@ -39,8 +41,12 @@ button {
   padding: 10px 20px;
   font-size: 1rem;
   cursor: pointer;
+  background-color: #FF8C00; 
+  color: white;
+  border: none;
 }
 
 button:disabled {
   background-color: #ccc;
+  color: black;
 }
