@@ -12,7 +12,7 @@ First, you need to install TypeScript globally on your machine. Run the followin
 
 ```bash
 npm install -g typescript
-
+```
 
 
 ### 2. Compile the TypeScript file
