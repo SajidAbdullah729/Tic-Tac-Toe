@@ -13,7 +13,9 @@ First, you need to install TypeScript globally on your machine. Run the followin
 ### 2. Compile the TypeScript file
 
 Next, you need to compile the `game.ts` file into JavaScript using the TypeScript compiler. To do this, run the following command:
-
+```bash
+npm install -g typescript
+```bash
 
 This will generate a `game.js` file that can be run in the browser.
 
