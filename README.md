@@ -46,3 +46,8 @@ This is a simple Tic-Tac-Toe game where two players can take turns to place thei
 ## License
 
 This project is licensed under GNU Affero General Public License v3.0 - see the [LICENSE](LICENSE) file for details.
+
+## Images
+![Screenshot (1336)](https://github.com/user-attachments/assets/f62bf83e-2c5b-4262-b2fd-38cb6a76ac12)
+
+
