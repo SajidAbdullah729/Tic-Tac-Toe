@@ -18,12 +18,12 @@ npm install -g typescript
 ### 2. Compile the TypeScript file
 
 Next, you need to compile the `game.ts` file into JavaScript using the TypeScript compiler. To do this, run the following command:
+For Windows:
 
 ```bash
-
-npm install -g typescript
-
-```bash
+tsc
+tsc game.ts
+```
 
 This will generate a `game.js` file that can be run in the browser.
 
