@@ -6,7 +6,7 @@ class TicTacToe {   // A class of Tic-Tac Toe which has multiple values
   constructor() {
     this.board = [];
     for (let i = 0; i < 9; i++) {
-      this.board.push('');
+      this.board.push(''); // Board position in the board array 
     }
     this.currentPlayer = 'X';
     this.gameStatus = 'Game On';
