@@ -76,7 +76,7 @@ class TicTacToe {   // A class of Tic-Tac Toe which has multiple values
   }
 }
 
-document.addEventListener('DOMContentLoaded', () => {
+document.addEventListener('DOMContentLoaded', () => { // All dom content loaded
   const game = new TicTacToe();
 
   const cells = document.querySelectorAll('.cell');
