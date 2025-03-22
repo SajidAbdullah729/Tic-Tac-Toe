@@ -1,4 +1,4 @@
-class TicTacToe {
+class TicTacToe {   // A class of Tic-Tac Toe which has multiple values
   board: string[];
   currentPlayer: string;
   gameStatus: string;
